@@ -6,7 +6,7 @@ A repository of useful data sets for data science projects. 👍 ⭐ 🎁 <br>
 This is a repository of useful data sets for data science projects.
 I initially started collecting these resources while I was working on some data visualisations projects for a course that I was taking on Kaggle. There are a wide variety of file formats that have been organised in folders in this repository. Please feel free to use them.
 
-### Datasets 🎁
+### DATASETS: 🎁
 
 * [Direct Gov UK](https://data.gov.uk/)
 * [Google Trends](https://trends.google.co.uk/trends/?geo=GB)
