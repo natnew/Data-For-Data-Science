@@ -28,4 +28,14 @@ I initially started collecting these resources while I was working on some data 
 * [World Health Organisation](https://www.who.int/data/gho/)
 * [European Union Data Portal]()
 * [FiveThirtyEight](https://data.fivethirtyeight.com/)
+
 * [Free code Boot Camp](https://github.com/freeCodeCamp/open-data)
+* [Socrata](https://www.tylertech.com/products/socrata)
+* [Canada Open Data](https://www.tylertech.com/products/socrata)
+* [UNICEF](https://www.unicef.org/reports)
+* [UCLA]()
+* [Data Market](https://www.qlik.com/us/products/qlik-sense/data-sources)
+* [Junar](https://www.junar.com/)
+* [DBPedia](https://www.dbpedia.org/)
+
+
